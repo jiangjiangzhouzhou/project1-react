@@ -1,0 +1,42 @@
+.about {
+    width: 100%;
+    background-color: #161616;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 100px 5% 100px 5%;
+  }
+  .about .about-text {
+    font-family: calibri;
+    width: 50%;
+  }
+  .about .about-text h1 {
+    font-size: 5rem;
+    color: #17d1ac;
+  }
+  .about .about-text h2 {
+    font-size: 3rem;
+    color: #FFFFFF;
+    font-weight: 400;
+  }
+  .about .about-text h1, .about .about-text h2 {
+    margin: 0px;
+    padding: 0px;
+  }
+  .about .about-text p {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.9);
+  }
+  .about .about-text button {
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: #17d1ac;
+  }
+  .about .about-text button:hover {
+    background-color: #FFFFFF;
+    transition: all ease 0.3s;
+  }

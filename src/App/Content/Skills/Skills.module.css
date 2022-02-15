@@ -1,0 +1,29 @@
+.skills{
+    width: 100%;
+    font-family: calibri;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    padding-top: 40px;
+    background-color: #292929;
+  }
+  .s__heading {
+    text-align: center;
+    margin: 20px 0px;
+  }
+  .s__heading h1 {
+    color: #FFFFFF;
+    font-size: 3rem;
+    margin: 0px;
+    padding: 0px;
+  }
+  .s__d__container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+  }

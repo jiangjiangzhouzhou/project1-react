@@ -1,0 +1,14 @@
+
+
+.App {
+  background-color: #F4F7FF;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+.App a {
+  text-decoration: none;
+}
+.App ul {
+  list-style: none;
+}

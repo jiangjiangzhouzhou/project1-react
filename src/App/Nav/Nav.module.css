@@ -1,0 +1,30 @@
+header {
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 100%;
+    letter-spacing: 2px;
+    font-family: calibri;
+    padding: 10px 50px;
+    background-color: #F4F7FF;
+  }
+  .nav__item{
+    padding: 10px 15px;
+    color: #6c707c;
+    font-size: 12px;
+  }
+  header .active a,
+  a:hover {
+    background-color: #292929;
+    color: #FFF !important;
+    font-weight: bold;
+    transition: all ease 0.4s;
+  }
+  .lang {
+    color: #292929;
+  }
+  .logo {
+    font-size: 25px;
+    font-weight: bold;
+    color: #292929;
+    font-family: Poppins;
+  }
